@@ -37,6 +37,10 @@
 
 ---
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-sebi&show_icons=true&theme=radical)
+
+
 [website]: https://thesebi.dev/
 [twitter]: https://twitter.com/S3BI_YT
 [youtube]: https://www.youtube.com/channel/UC0O37NN-aSqcOuleXWxRLLw
