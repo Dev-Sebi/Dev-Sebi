@@ -38,7 +38,7 @@
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-sebi&show_icons=true&theme=radical)
+![Sebis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-sebi&show_icons=true&theme=radical)
 
 
 [website]: https://thesebi.dev/
