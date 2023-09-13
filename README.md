@@ -7,7 +7,7 @@
 - 🔭 Making the Internet a better Place!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Moderators and Malware Analysts
-- 🥅 2022 Goals: Contribute more to projects regarding Cyber Security
+- 🥅 2024 Goals: Contribute more to projects regarding Cyber Security
 - ⚡ Fun fact: I love Cats (who are you if you don't?)
 
 ### Connect with me:
