@@ -2,7 +2,7 @@
 
 [![Val-Ascii](https://img.shields.io/website?label=val-ascii.com&style=for-the-badge&url=https%3A%2F%2Fval-ascii.com)][website]
 
-## I'm a Developer, Moderator and Apprentice!
+## I'm a Developer and Moderator!
 
 - 🔭 Making the Internet a better Place!
 - 🌱 I’m currently learning TypeScript and Fastify
